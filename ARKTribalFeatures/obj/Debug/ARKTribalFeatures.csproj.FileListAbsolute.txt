@@ -1,0 +1,6 @@
+c:\users\mathias\documents\visual studio 2015\Projects\ARKTribalFeatures\ARKTribalFeatures\bin\Debug\ARKTribalFeatures.exe.config
+c:\users\mathias\documents\visual studio 2015\Projects\ARKTribalFeatures\ARKTribalFeatures\bin\Debug\ARKTribalFeatures.exe
+c:\users\mathias\documents\visual studio 2015\Projects\ARKTribalFeatures\ARKTribalFeatures\bin\Debug\ARKTribalFeatures.pdb
+c:\users\mathias\documents\visual studio 2015\Projects\ARKTribalFeatures\ARKTribalFeatures\obj\Debug\ARKTribalFeatures.csprojResolveAssemblyReference.cache
+c:\users\mathias\documents\visual studio 2015\Projects\ARKTribalFeatures\ARKTribalFeatures\obj\Debug\ARKTribalFeatures.exe
+c:\users\mathias\documents\visual studio 2015\Projects\ARKTribalFeatures\ARKTribalFeatures\obj\Debug\ARKTribalFeatures.pdb
